@@ -6,4 +6,4 @@
 #---
 layout: page
 title: "index"
-permalink: /URL-PATH
+permalink: /index
