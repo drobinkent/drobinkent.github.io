@@ -127,6 +127,10 @@ navigation_header:
   url: /
 - title: Elements
   url: /elements/
+- title: About Me
+  url: /aboutme/
+- title: My Research
+  url: /myresearch/
 - title: Blog
   url: /blog/
 - title: Categories

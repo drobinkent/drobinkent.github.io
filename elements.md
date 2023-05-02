@@ -4,7 +4,7 @@ feature_text: |
   A demo of Markdown and HTML includes
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
-aside: true
+aside: true # If this is true then site-aside.html is included as a sidebar
 ---
 
 # Heading 1
