@@ -5,5 +5,5 @@
 layout: home
 ---
 layout: page
-title: "PAGE-TITLE"
+title: "index"
 permalink: /URL-PATH
